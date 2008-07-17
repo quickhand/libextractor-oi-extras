@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+/home/marc/Projects/fb2plug3/src/book_meta.h
+
+/home/marc/Projects/fb2plug3/src/fb2plug3.cpp
+string.h
+-
+stdlib.h
+-
+expat.h
+-
+stdio.h
+-
+fcntl.h
+-
+ctype.h
+-
+unistd.h
+-
+sys/types.h
+-
+plugin.h
+/home/marc/Projects/fb2plug3/src/plugin.h
+
+/home/marc/Projects/fb2plug3/src/plugin.h
+book_meta.h
+/home/marc/Projects/fb2plug3/src/book_meta.h
+

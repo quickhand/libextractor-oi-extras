@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/fb2plug3test.dir/fb2plug3test.o  -o fb2plug3test -rdynamic libfb2plug3.so -Wl,-rpath,/home/marc/Projects/fb2plug3/src 
